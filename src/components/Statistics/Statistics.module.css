@@ -1,0 +1,11 @@
+.counts {
+  list-style: none;
+}
+.stattext {
+  margin-right: 15px;
+}
+.stattext,
+.statvalue {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
